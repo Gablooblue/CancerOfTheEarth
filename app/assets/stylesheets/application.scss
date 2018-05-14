@@ -1,2 +1,7 @@
 @import "bootstrap";
 @import "font-awesome";
+
+.carousel-item {
+    max-height: 600px;
+    overflow: hidden;
+}
